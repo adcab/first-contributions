@@ -1,4 +1,5 @@
 # Contributors
+- [KingCode](https://github.com/King-Code-938) - Hello, this is my first contribution
 - [AhmedShaikh0](https://github.com/AhmedShaikh0) – Hi, I'm Ahmed M Shaikh, a passionate Web/Python developer and AI learner, contributing in the world of open source.
 - [Olivier] this is my first contribution ever ! I'm happy to try this new feature. Salutations to everyone !
 - AISeekerX 20260620
@@ -4284,4 +4285,8 @@ John Morgan Hello!
 - [Edward Summitt](https://github.com/EdwardSummitt) hello
 - [lalashark](https://github.com/lalashark) hi this is lalashark~
 - [Mohit Rathi](https://github.com/rathi-mohit) Hey, I'm Mohit!
-- [Mohit Rathi](https://github.com/adcab) Hey, I'm Adriana!
+<<<<<<< HEAD
+- [Adriana Cabrera](https://github.com/adcab) Hey, I'm Adriana!
+=======
+- [Priyan Darshana](https://github.com/priyan1995) Hello Guys! I'm from Sri Lanka ✨🍁😎❤️🍔🧶👋
+>>>>>>> f30b2f9c0ef20b64f786d77e553d83f95cd3c690
